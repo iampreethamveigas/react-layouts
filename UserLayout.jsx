@@ -8,7 +8,6 @@ import styles from './UserLayout.less';
 
 
 const UserLayout = props => {
-  const [show, set] = useState(true)
 
   const {
     route = {

@@ -66,24 +66,10 @@ const UserLayout = props => {
         </div>
         <div className={styles.second_half}>
           <div className={styles.content_blur} />
-
           <div className={styles.content}>
-
             {children}
           </div>
         </div>
-
-        {/* <DefaultFooter
-          copyright="2020 Wise Health"
-          links={[
-            {
-              key: 'Afya',
-              title: 'Afya',
-              href: 'https://Afya',
-              blankTarget: true,
-            },
-          ]}
-        /> */}
       </div>
 
 

@@ -38,9 +38,6 @@ const UserLayout = props => {
 
 
       <div className={styles.container}>
-        {/* <div className={styles.lang}>
-          <SelectLang />
-        </div> */}
         <div className={styles.first_half}>
           <div className={styles.main_sidebar_title}>
             <div className={styles.top}>

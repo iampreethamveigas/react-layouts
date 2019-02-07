@@ -1,5 +1,5 @@
 import React from 'react';
-import { DefaultFooter, getMenuData, getPageTitle } from '@ant-design/pro-layout';
+import { getMenuData, getPageTitle } from '@ant-design/pro-layout';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 import { Link, useIntl, connect } from 'umi';
 import logo from '../assets/whilelogo.svg';
